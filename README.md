@@ -26,10 +26,7 @@ Com uma trajetória internacional de **9 anos no Japão**, desenvolvi competênc
 
 ---
 
-### 📈 Projetos em Destaque
-- **[Análise de Moedas Estrangeiras]**: Automação em Python via API do Banco Central e visualização de dados estruturada no Power BI.
 
----
 
 ### 📫 Vamos conectar?
 
